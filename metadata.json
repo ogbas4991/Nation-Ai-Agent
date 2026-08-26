@@ -1,0 +1,7 @@
+{
+  "name": "OPA AI Agent",
+  "description": "Production-ready native OpenClaw Gateway AI Agent client with live WebSockets, MCP connector management, tool policies, streaming execution, and persistent chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
